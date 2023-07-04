@@ -22,7 +22,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="author" content="Kshitiz Baniya" />
         <meta
           name="image"
-          content={`https://www.kshitizbaniya.tech/my-page.png`}
+          content={`https://guru-code.vercel.app/my-page.png`}
         />
         <meta property="og:title" content="Guru Code" />
         <meta
@@ -31,9 +31,9 @@ export default function App({ Component, pageProps }: AppProps) {
         />
         <meta
           property="og:image"
-          content={`https://www.kshitizbaniya.tech/my-page.png`}
+          content={`https://guru-code.vercel.app/my-page.png`}
         />
-        <meta property="og:url" content="https://www.kshitizbaniya.tech/" />
+        <meta property="og:url" content="https://guru-code.vercel.app/" />
         <meta property="og:type" content="website" />
       </Head>
       <main className="relative min-h-screen">
